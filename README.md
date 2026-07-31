@@ -76,8 +76,12 @@
 
 ## GitHub Statistics
 
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=FarisEka&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarisEka&bg_color=00000000&color=94A3B8&line=22D3EE&point=38BDF8&area=true&hide_border=true" alt="GitHub activity graph" width="100%" />
 </p>
 
-
+<img data-importer="snake" src="https://raw.githubusercontent.com/FarisEka/FarisEka/snake-output/snake.svg" alt="Snake animation" />
