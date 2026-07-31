@@ -80,11 +80,18 @@
   <img src="./assets/github-streak.svg" alt="GitHub contribution streak" width="100%" />
 </p>
 
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarisEka&bg_color=00000000&color=94A3B8&line=22D3EE&point=38BDF8&area=true&hide_border=true" alt="GitHub activity graph" width="100%" />
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/FarisEka/FarisEka/main/metrics.plugin.pagespeed.svg?v=4" alt="PageSpeed metrics for rzadaffa.netlify.app" width="100%" />
+</p>
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/puzzle-bobble-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/puzzle-bobble-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/puzzle-bobble-contribution-graph-dark.svg" alt="Puzzle Bobble-style contribution graph" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FarisEka/FarisEka/output/puzzle-bobble-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FarisEka/FarisEka/output/puzzle-bobble-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/FarisEka/FarisEka/output/puzzle-bobble-contribution-graph-dark.svg" alt="Puzzle Bobble-style contribution graph" width="100%" />
   </picture>
 </p>
