@@ -12,7 +12,7 @@
 
 ###
 
-<h1 data-importer="text" align="center">Hi 👋, I'm Faris Eka Kurniawan</h1>
+<h1 data-importer="text" align="center">Hi 👋, I'm Fariz Eka Kurniawan</h1>
 
 ###
 
